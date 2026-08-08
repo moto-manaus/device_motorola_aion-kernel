@@ -4,11 +4,7 @@ mtk-uart-apdma.ko
 8250_mtk.ko
 dbgtop-drm.ko
 irq-dbg.ko
-mrdump.ko
 mtk_disp_notify.ko
-aee_aed.ko
-aee_hangdet.ko
-monitor_hang.ko
 mtk_printk_ctrl.ko
 log_store.ko
 nvmem_mtk-devinfo.ko
@@ -72,7 +68,6 @@ dsi-panel-mot-tianma-vtdr6115-655-fhdp-dphy-vdo-144hz.ko
 dsi-panel-mot-csot-vtdr6115-655-fhdp-dphy-vdo-144hz.ko
 dsi-panel-mot-dummy-vdo-60hz.ko
 mediatek-drm.ko
-aee_rs.ko
 mmprofile.ko
 phy-mtk-tphy.ko
 usb_boost.ko
@@ -170,13 +165,9 @@ cfg80211.ko
 mac80211.ko
 clk-disable-unused.ko
 mtk-pm-domain-disable-unused.ko
-zsmalloc.ko
-zram.ko
 arm_dsu_pmu.ko
 emi-mpu-v2.ko
 emi-slb.ko
-uload_ind.ko
-load_track.ko
 sec.ko
 cache-parity.ko
 emi-mpu-hook-v1.ko
